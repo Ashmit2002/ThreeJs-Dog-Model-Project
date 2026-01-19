@@ -1,6 +1,6 @@
 # 🐕 3D Interactive Portfolio - Dogstudio Clone
 
-[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](YOUR_DEPLOYED_LINK_HERE)
+[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://three-js-dog-model-project.vercel.app/)
 [![React](https://img.shields.io/badge/React-19.2.0-blue)](https://reactjs.org/)
 [![Three.js](https://img.shields.io/badge/Three.js-0.182.0-black)](https://threejs.org/)
 [![GSAP](https://img.shields.io/badge/GSAP-3.14.2-green)](https://greensock.com/gsap/)
