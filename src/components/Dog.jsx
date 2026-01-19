@@ -152,7 +152,7 @@ const Dog = () => {
         endTrigger: "#section-4",
         start: "top top",
         end: "bottom bottom",
-        markers: true,
+        // markers: true,
         scrub: true,
       },
     });
