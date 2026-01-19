@@ -9,7 +9,7 @@
 
 ## 🎥 Demo
 
-[**Live Demo**](YOUR_DEPLOYED_LINK_HERE) | [**Video Walkthrough**](YOUR_VIDEO_LINK_HERE)
+[**Live Demo**](https://three-js-dog-model-project.vercel.app/)
 
 ## ✨ Features
 
